@@ -1,0 +1,172 @@
+{
+  "customers": [
+    {
+      "id": "191f7464-c16d-41a3-b81b-482348f6f86d",
+      "first_name": "Terrie",
+      "last_name": "Astrologo",
+      "email": "gramer@mail.com",
+      "status": false
+    },
+    {
+      "id": "fc61ec1b-65b0-4f6c-825a-311078e8f1e2",
+      "first_name": "Janette",
+      "last_name": "Kereluk",
+      "email": "boomhandmade@live.com",
+      "status": true
+    },
+    {
+      "id": "8d1c1c46-9b97-45e0-a8fb-68a0785ad05b",
+      "first_name": "Dixie",
+      "last_name": "Annand",
+      "email": "nilsa.alevedo@gmail.com",
+      "status": false
+    },
+    {
+      "id": "606b89cf-e3d7-4ff8-8c8b-28d42d0c2d0e",
+      "first_name": "Oswaldo",
+      "last_name": "Bortner",
+      "email": "ziman@gmail.com",
+      "status": true
+    },
+    {
+      "id": "02773690-e8d4-4efa-8d60-e756844bfaf1",
+      "first_name": "Sudie",
+      "last_name": "Wingard",
+      "email": "jacquelyn.dreith@icloud.com",
+      "status": false
+    },
+    {
+      "id": "d13954ad-0185-4ce0-93cd-781aea6e3b12",
+      "first_name": "Devora",
+      "last_name": "Pinkstaff",
+      "email": "eugene.guptill@hotmail.com",
+      "status": true
+    },
+    {
+      "id": "74693114-feb7-411f-9f66-b003055558ed",
+      "first_name": "Nikola",
+      "last_name": "Tesla",
+      "email": "nikola@tesla.com",
+      "status": true
+    },
+    {
+      "id": "a719f4e8-f837-4f1d-acbe-ac3daa6d1af0",
+      "first_name": "Albert",
+      "last_name": "Einstein",
+      "email": "albert@einstein.com",
+      "status": false
+    },
+    {
+      "id": "8aa472d6-256e-44f7-86fa-fbb6afbed87a",
+      "first_name": "Carolin",
+      "last_name": "Dörfchen",
+      "email": "beverlee@gmail.com",
+      "status": true
+    },
+    {
+      "id": "7ad3fe15-5a47-410b-aa43-b4c6c2736f8b",
+      "first_name": "Richard",
+      "last_name": "Feynman",
+      "email": "richard@feynman.com",
+      "status": false
+    },
+    {
+      "id": "ecde161d-4ea6-40f9-abb5-27090ad8dcbe",
+      "first_name": "Jeanmarie",
+      "last_name": "Lande",
+      "email": "estatebuff@mail.com",
+      "status": false
+    },
+    {
+      "id": "621c7dee-00e0-4906-af3f-2d3776e2ecc8",
+      "first_name": "Tilda",
+      "last_name": "Kalama",
+      "email": "kennith.croak@mail.com",
+      "status": true
+    },
+    {
+      "id": "51ad9970-7d94-4a76-9c38-4fc788ab3872",
+      "first_name": "Adelaida",
+      "last_name": "Cawthron",
+      "email": "ivey@webmail.de",
+      "status": false
+    },
+    {
+      "id": "c7d44f04-2958-4f18-b0c2-2ca4b4dbfeaf",
+      "first_name": "Perry",
+      "last_name": "Boonstra",
+      "email": "judson@webmail.de",
+      "status": true
+    },
+    {
+      "id": "0b438c8b-b0c1-460c-9e00-8cfd3104abb4",
+      "first_name": "Eura",
+      "last_name": "Oursler",
+      "email": "stringmega@outlook.com",
+      "status": false
+    },
+    {
+      "id": "3ba8248f-50a2-426f-9e35-568004f19191",
+      "first_name": "Pat",
+      "last_name": "Gotimer",
+      "email": "pleaseclueless@webmail.de",
+      "status": false
+    },
+    {
+      "id": "166e05cd-246a-4bcd-a31a-e8bdfc427254",
+      "first_name": "Shelli",
+      "last_name": "Fritts",
+      "email": "batteradvise@gmx.net",
+      "status": false
+    },
+    {
+      "id": "03dc3f2e-9a5b-41a9-b021-b5af6cf2d6c5",
+      "first_name": "Robert",
+      "last_name": "Oppenheimer",
+      "email": "robert@oppenheimer.com",
+      "status": true
+    },
+    {
+      "id": "8b946473-a01e-475f-978f-80378ad7802c",
+      "first_name": "Lamont",
+      "last_name": "Vinton",
+      "email": "graciela.bread@live.com",
+      "status": true
+    },
+    {
+      "id": "79232784-0fce-2000-9040-8c3fe783b756",
+      "first_name": "Tyler",
+      "last_name": "Wyker",
+      "email": "noya@mail.com",
+      "status": true
+    },
+    {
+      "id": "79232784-0fce-6000-9040-8c3fe4123b756",
+      "first_name": "Isaac",
+      "last_name": "Newton",
+      "email": "isaac@newton.com",
+      "status": true
+    },
+    {
+      "id": "79232784-0fce-4005-9040-8c3fe783b7234",
+      "first_name": "Werner",
+      "last_name": "Heisenberg",
+      "email": "werner@heisenberg.de",
+      "status": false
+    },
+    {
+      "id": "acafdb3c-699c-4f9a-a9e5-cefb739383c6",
+      "first_name": "Niels",
+      "last_name": "Bohr",
+      "email": "niels@bohr.com",
+      "status": true
+    },
+    {
+      "id": "a2481c71-4141-467d-a561-1136cfa77eb8",
+      "first_name": "Edwin",
+      "last_name": "Hubble",
+      "email": "edwin@hubble.com",
+      "status": false
+    }
+  ]
+}

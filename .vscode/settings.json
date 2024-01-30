@@ -1,0 +1,17 @@
+{
+  "i18n-ally.localesPaths": ["locales"],
+  "i18n-ally.keystyle": "nested",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "i18n-ally.namespace": true,
+  "i18n-ally.pathMatcher": "{locale}/{namespace}.json",
+  "i18n-ally.sourceLanguage": "en",
+  "eslint.enable": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptvue",
+    "typescript",
+    "typescriptvue"
+  ]
+}
